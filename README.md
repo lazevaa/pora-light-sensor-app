@@ -5,13 +5,25 @@ An Android app that reads the device's ambient light sensor and publishes timest
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/mqtt_ni_povezan.png" alt="MQTT ni povezan" width="30%">
-  <img src="screenshots/mqtt_povezan.png" alt="MQTT ni povezan" width="30%">
-  <img src="screenshots/nacin_delovanja.png" alt="Nacin delovanja" width="30%">
-  <img src="screenshots/res_sim.png" alt="Real/simulated" width="30%">
-<img src="screenshots/nastavitve.png" alt="Nastavitve" width="30%">
-<img src="screenshots/real_status.png" alt="Real status" width="30%">
-<img src="screenshots/simulated_status.png" alt="Simulated status" width="30%">
+  <img src="screenshots/mqtt_ni_povezan.png" alt="MQTT not connected" width="300">
+</p>
+<p align="center">
+  <img src="screenshots/mqtt_povezan.png" alt="MQTT connected" width="300">
+</p>
+<p align="center">
+  <img src="screenshots/nacin_delovanja.png" alt="Mode selection" width="300">
+</p>
+<p align="center">
+  <img src="screenshots/res_sim.png" alt="Real/simulated mode" width="300">
+</p>
+<p align="center">
+  <img src="screenshots/nastavitve.png" alt="Settings" width="300">
+</p>
+<p align="center">
+  <img src="screenshots/real_status.png" alt="Real mode status" width="300">
+</p>
+<p align="center">
+  <img src="screenshots/simulated_status.png" alt="Simulated mode status" width="300">
 </p>
 
 ## Features
